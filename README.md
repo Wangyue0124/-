@@ -1,5 +1,10 @@
 transformers>=4.45.0
+
 datasets>=3.0.0
+
 peft>=0.13.0
+
 accelerate>=1.0.0
+
 sentencepiece>=0.2.0
+
